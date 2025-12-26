@@ -23,7 +23,7 @@
 
     <script>
       // googleMapとYoutubeのAPI
-      const API_KEY = "AIzaSyA2j82nQ4frGdVzV-wv01uuhzg_5HKwnBg"; 
+      const API_KEY = "***"; 
 
       let map;
       let marker;
